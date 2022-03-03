@@ -14,7 +14,7 @@ class CategoriesController extends Controller
      */
     public function index()
     {
-        //
+       
     }
 
     /**
@@ -24,7 +24,7 @@ class CategoriesController extends Controller
      */
     public function create()
     {
-        //
+        dd("create page");
     }
 
     /**

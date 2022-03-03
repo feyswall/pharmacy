@@ -14,7 +14,7 @@ class InventoriesController extends Controller
      */
     public function index()
     {
-        //
+        return view('inventory.all_in_inventory');
     }
 
     /**
